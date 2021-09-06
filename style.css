@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+body {
+    font-family: 'Cookie', cursive;
+    font-size: 2rem;
+    color: #FFE4C4;
+    background-color: #E77471;
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
